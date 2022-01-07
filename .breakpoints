@@ -1,0 +1,28 @@
+{
+  "files": {
+    "views/adminHome.ejs": [
+      {
+        "id": "d6b80f51-6fff-47eb-82a8-ff7799e62c19",
+        "line": 32,
+        "version": 1145,
+        "index": 1196
+      }
+    ],
+    "views/editItem.ejs": [
+      {
+        "id": "c4cf22db-1a4f-48eb-837d-e37cee7bfec2",
+        "line": 33,
+        "version": 362,
+        "index": 1279
+      }
+    ],
+    "views/partials/feedicons.ejs": [
+      {
+        "id": "2d62e16a-dd76-4d9b-8f37-f1223a7306b5",
+        "line": 18,
+        "version": 319,
+        "index": 703
+      }
+    ]
+  }
+}
